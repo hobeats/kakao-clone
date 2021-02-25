@@ -1,0 +1,35 @@
+.settings .settings__section {
+  padding: 30px 0px;
+}
+
+.settings__setting .settings__icon {
+  font-size: 23px;
+  /* margin-right: 15px; */
+  padding: 0px 15px;
+}
+
+.settings__icon .fa-flask {
+  margin-left: 2px;
+}
+.settings__icon .fa-bullhorn {
+  margin-right: -3px;
+}
+.settings__setting .settings__title {
+  font-size: 1.37rem;
+  /* font-weight: 400;  */
+}
+
+.settings .settings__setting {
+  margin-bottom: 40px;
+}
+
+.version {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.settings__ver {
+  margin-right: 20px;
+  font-size: 1.4rem;
+  /* opacity: 0.9; */
+}
